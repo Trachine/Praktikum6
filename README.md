@@ -1,4 +1,4 @@
-# Tugas Praktikum
+# Tugas Praktikum 6
 
 ### Program Data Mahasiswa
 

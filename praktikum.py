@@ -32,7 +32,7 @@ def tampilkan():
     
 def hapus():
     print("\nHapus Data")
-    nama = input("Masukan NIM    : ")
+    nama = input("Masukan Nama    : ")
     if nama in x.keys():
         del x[nama]
         print()
